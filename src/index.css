@@ -11,3 +11,18 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.container h3
+{
+  text-align: center;
+}
+.footer
+{
+  width:100%;
+  background-color: rgb(26, 21, 21);
+  color: white;
+  text-align: center;
+}
+.todo
+{
+  min-height: 70vh;
+}
